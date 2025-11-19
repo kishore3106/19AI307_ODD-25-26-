@@ -40,8 +40,8 @@ To write a java program to get the user input for temperature and display approp
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: Magesh.N
-RegisterNumber:  212222040091
+Developed by: Kishore B
+RegisterNumber:  212224100032
 */
 ```
 
@@ -76,4 +76,5 @@ public class Main{
 ## RESULT:
 
 Thus, a java program to get the user input for temperature and display appropriate output is executed successfully.
+
 
